@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [10/Apr/2017:14:07:02 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2017:14:07:28 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 61 http-bio-8080-exec-7 16
+0:0:0:0:0:0:0:1 - - [10/Apr/2017:14:09:25 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 61 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [10/Apr/2017:14:09:29 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 61 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [10/Apr/2017:14:09:29 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2017:14:09:30 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 61 http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2017:15:02:05 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 61 http-bio-8080-exec-1 34
